@@ -1,5 +1,7 @@
 # Stacko
 
+![Stacko screenshot](screenshot.png)
+
 Stacko is the implementation of the game described at the [Untitled Stacking Game design document](http://graphics.cs.cmu.edu/courses/15-466-f17/game0-designs/aluo/).
 
 ## Requirements
